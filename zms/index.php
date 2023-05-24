@@ -7,7 +7,7 @@ include('includes/dbconnection.php');
 <!DOCTYPE HTML>
 <html>
 <head>
-<title>Zoo management System | Home Page</title>
+<title>Zoo Management System | Home Page</title>
 <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all">
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
 
